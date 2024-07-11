@@ -1,0 +1,8 @@
+:root{
+  --orange: #F2994A;
+  --organge-light: #F2C94C;
+}
+
+html{
+  background: linear-gradient(to bottom,var(--orange),var(--organge-light));
+}
